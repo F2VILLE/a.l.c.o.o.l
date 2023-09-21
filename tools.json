@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Briquet",
+        "image": "/img/briquet.jpeg"
+    },
+    {
+        "name": "Clé",
+        "image": "/img/cles.jpg"
+    },
+    {
+        "name": "Vidange",
+        "image": "/img/vidange.jpg"
+    },
+    {
+        "name": "Table",
+        "image": "/img/table.jpeg"
+    },
+    {
+        "name": "Echelle",
+        "image": "/img/echelle.jpg"
+    }
+]
